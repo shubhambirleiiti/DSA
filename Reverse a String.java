@@ -1,4 +1,6 @@
 // logic for reverse a string
+//https://practice.geeksforgeeks.org/problems/reverse-a-string/1
+
 class Reverse
 {
     // Complete the function
